@@ -1,6 +1,5 @@
 # Data analysis
 pandas
-
 numpy
 
 # Visualization
